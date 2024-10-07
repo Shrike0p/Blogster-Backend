@@ -27,7 +27,7 @@ This is the backend for **Blogster**, a RESTful API built with **Express.js** an
 1.  Clone the repository:
     
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Shrike0p/Blogster-Backend
     ```
     
 2.  Navigate to the backend directory:
