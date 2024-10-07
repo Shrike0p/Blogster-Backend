@@ -1,6 +1,9 @@
 
 # Blogster - Backend
-
+## Live Link:-
+```bash
+https://blogster-backend.onrender.com
+```
 ## Overview
 
 This is the backend for **Blogster**, a RESTful API built with **Express.js** and **Prisma ORM**, backed by a **PostgreSQL** database. The backend provides user authentication, blog management, commenting, and likes functionality.
